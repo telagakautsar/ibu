@@ -2,11 +2,11 @@
 "Ads":
   [
     {
-      "status_redirect":"",
-      "link_redirect":"",
-      "admob_inter":"ca-app-pub-1799410780853043/2444293102",
-      "admob_banner":"ca-app-pub-1799410780853043/1305351699",
-      "admob_open_ads":"ca-app-pub-1799410780853043/4878884750",
+      "status_redirect":"1",
+      "link_redirect":"https://play.google.com/store/apps/details?id=com.savvydev.lucajigsawpuzzle",
+      "admob_inter":"",
+      "admob_banner":"",
+      "admob_open_ads":"",
       "select_ads":"ADMOB",
       "interval":"7",
       "unityID":"",
