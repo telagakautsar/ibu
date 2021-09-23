@@ -4,9 +4,9 @@
     {
       "status_redirect":"",
       "link_redirect":"",
-      "admob_inter":"ca-app-pub-1799410780853043/8141598063",
-      "admob_banner":"ca-app-pub-1799410780853043/3272414769",
-      "admob_open_ads":"ca-app-pub-1799410780853043/1839558375",
+      "admob_inter":"",
+      "admob_banner":"",
+      "admob_open_ads":"",
       "select_ads":"ADMOB",
       "interval":"7",
       "unityID":"",
